@@ -7,11 +7,11 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "科技ONR"
+copyright = "科技ONE"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "科技ONE导航,webstack,hugo"
+  keywords = "科技ONE导航"
   description = "科技ONE导航"
 
 #是否开启搜索栏，true开启，false关闭
