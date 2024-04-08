@@ -20,7 +20,50 @@
       url: https://www.google.com/
       description: 谷歌搜索引擎
     
-
+- taxonomy: 人工智能
+  icon: fa-robot
+  links: 
+    - title: AI科技ONE
+      url: https://g.kejione.com/
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://g.kejione.com/
+      description: Gemini接口
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://chat.openai.com/
+      description: OpenAI-ChatGPT
+    - title: Gemini
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://chat.openai.com/
+      logo: 
+      url: https://gemini.google.com/
+      description: 谷歌AI
+    - title: 文心一言
+      url: https://yiyan.baidu.com/
+      description: 百度AI
+    - title: 通义千问
+      url: https://tongyi.aliyun.com/
+      description: 阿里AI
+    - title: 豆包AI
+      url: https://www.doubao.com/
+      description: 抖音AI
+    - title: 讯飞星火
+      url: https://xinghuo.xfyun.cn/
+      description: 科大讯飞AI
+    - title: 秘塔AI
+      url: https://metaso.cn/
+      description: 秘塔AI
+    - title: 笔灵AI
+      url: https://ibiling.cn/
+      description: 论文AI
+    - title: 堆友AI
+      url: https://d.design/
+      description: 阿里绘画AI
+    - title: 美图设计室
+      url: https://www.x-design.com/
+      description: 美图秀秀AI
+    - title: 触手AI
+      url: https://douchu.ai/
+      description: 免费图片AI
+      
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
