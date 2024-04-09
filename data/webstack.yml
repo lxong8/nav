@@ -75,6 +75,10 @@
       logo: 
       url: https://aws.amazon.com/
       description: 免费一年
+    - title: cloudcone
+      logo: 
+      url: https://app.cloudcone.com/
+      description: 9.9美金一年
  
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
