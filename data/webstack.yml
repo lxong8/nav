@@ -66,7 +66,7 @@
       
 - taxonomy: 云服务器
   icon: fa-microchip
-  links: 
+  links:
     - title: 甲骨文云
       url: https://www.oracle.com/cn/cloud/free/
       description: 甲骨文云永久免费服务器
