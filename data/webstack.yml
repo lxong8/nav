@@ -68,15 +68,12 @@
   icon: fa-microchip
   links: 
     - title: 甲骨文云
-      logo: 
       url: https://www.oracle.com/cn/cloud/free/
       description: 甲骨文云永久免费服务器
     - title: 亚马逊云
-      logo: 
       url: https://aws.amazon.com/
       description: 免费一年
     - title: cloudcone
-      logo: 
       url: https://app.cloudcone.com/
       description: 9.9美金一年
  
@@ -115,11 +112,11 @@
       logo: images/logos/gtn9.png
       url: http://www.gtn9.com/
       description: 国内专业品牌创意平台
-   - title: 少数派
+    - title: 少数派
      logo: images/logos/sspai.png
      url: https://sspai.com/
      description: 高品质数字消费指南
-   - title: 小众软件
+    - title: 小众软件
      logo: images/logos/appinn.png
      url: https://faxian.appinn.com/
      description: 在这里发现更多有趣的应用 
