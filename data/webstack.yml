@@ -112,7 +112,7 @@
       description: 国内知名老牌网盘
 
 - taxonomy: 考试学习
-  icon: fa-regular
+  icon: fa-graduation-cap
   links:
         - title: doyoudo
           url: http://doyoudo.com/
