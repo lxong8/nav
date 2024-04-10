@@ -22,6 +22,12 @@
     - title: cloudflare
       url: https://www.cloudflare.com/
       description: 免费功能强大的CDN
+    - title: 小霸王
+      url: https://www.yikm.net/
+      description: 小霸王 红白机
+    - title: 微信读书WEB
+      url: https://weread.qq.com/
+      description: 微信读书PC web
     
 - taxonomy: 人工智能
   icon: fa-robot
@@ -72,6 +78,9 @@
     - title: COZE国内
       url: https://www.coze.cn/
       description: 抖音国内版非GPT4
+    - title: 秘塔写作猫
+      url: https://xiezuocat.com/
+      description: Ai写作
       
 - taxonomy: 云服务器
   icon: fa-microchip
