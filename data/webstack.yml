@@ -63,6 +63,12 @@
     - title: 触手AI
       url: https://douchu.ai/
       description: 免费图片AI
+    - title: COZE海外
+      url: https://www.coze.com/
+      description: 抖音海外版免费GPT4
+    - title: COZE国内
+      url: https://www.coze.cn/
+      description: 抖音国内版非GPT4      
       
 - taxonomy: 云服务器
   icon: fa-microchip
