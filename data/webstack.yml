@@ -72,16 +72,6 @@
     - title: COZE国内
       url: https://www.coze.cn/
       description: 抖音国内版非GPT4
-
-- taxonomy: GitHub项目
-  icon: fa-code-merge
-  links:
-    - title: Hugo版网址导航
-      url: https://github.com/oulh/nav
-      description: Hugo版本，pages-CF等平台免费搭建
-    - title: CloudflareSpeedTest
-      url: https://github.com/XIU2/CloudflareSpeedTest
-      description: CF节点测速
       
 - taxonomy: 云服务器
   icon: fa-microchip
@@ -179,6 +169,31 @@
         - title: Taco搜索
           url: https://www.tacoso.cc/
           description: 知识文档电子书搜索引擎
+
+- taxonomy: GitHub项目
+  icon: fa-code-merge
+  links:
+    - title: Hugo版网址导航
+      url: https://github.com/oulh/nav
+      description: Hugo版本，pages-CF等平台免费搭建
+    - title: CloudflareSpeedTest
+      url: https://github.com/XIU2/CloudflareSpeedTest
+      description: CF节点测速
+    - title: Telegraph-Image
+      url: https://github.com/cf-pages/Telegraph-Image
+      description: 使用 Cloudflare Pages 和 Telegrap搭建免费图床
+    - title: Gemini-proxy
+      url: https://github.com/CattleZoe/Gemini-proxy
+      description: 利用cloudflare的work.js反向代理google的gemini的API接口
+    - title: ChatGemini
+      url: https://github.com/bclswl0827/ChatGemini
+      description: 基于Google Gemini的网页客户端
+    - title: palm-proxy
+      url: https://github.com/antergone/palm-proxy
+      description: Vercel搭建Google AI API
+    - title: palm-netlify-proxy
+      url: https://github.com/antergone/palm-netlify-proxy
+      description: 使用Netlify反向代理Google PaLM(Gemini) API
      
 - taxonomy: 友情链接
   icon: fa-link
