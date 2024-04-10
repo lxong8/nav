@@ -82,6 +82,24 @@
     - title: cloudcone
       url: https://app.cloudcone.com/
       description: 9.9美金一年
+    - title: 谷歌云
+      url: https://cloud.google.com/
+      description: 原免费3个月，现3地区每月免费200G流量
+    - title: 搬瓦工
+      url: https://bandwagonhost.com/
+      description: 优质CN2GIA
+    - title: atlantic
+      url: https://cloud.atlantic.net/
+      description: 大西洋免费一年
+    - title: vultr
+      url: https://www.vultr.com/
+      description: 老牌-5美金/月-按时计费
+    - title: racknerd
+      url: https://www.racknerd.com/
+      description: 9.89美金一年
+    - title: justhost.ru
+      url: https://justhost.ru/
+      description: 俄罗斯CN2-11元/月
 
 - taxonomy: 网盘云盘
   icon: fa-save
