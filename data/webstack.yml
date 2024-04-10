@@ -19,6 +19,9 @@
     - title: Google
       url: https://www.google.com/
       description: 谷歌搜索引擎
+    - title: cloudflare
+      url: https://www.cloudflare.com/
+      description: 免费功能强大的CDN
     
 - taxonomy: 人工智能
   icon: fa-robot
@@ -68,7 +71,17 @@
       description: 抖音海外版免费GPT4
     - title: COZE国内
       url: https://www.coze.cn/
-      description: 抖音国内版非GPT4      
+      description: 抖音国内版非GPT4
+
+- taxonomy: GitHub项目
+  icon: fa-code-merge
+  links:
+    - title: Hugo版网址导航
+      url: https://github.com/oulh/nav
+      description: Hugo版本，pages-CF等平台免费搭建
+    - title: CloudflareSpeedTest
+      url: https://github.com/XIU2/CloudflareSpeedTest
+      description: CF节点测速
       
 - taxonomy: 云服务器
   icon: fa-microchip
