@@ -37,6 +37,12 @@
     - title: byethost后台
       url: http://panel.byethost.com/index.php
       description: 永久免费PHP虚拟主机后台
+    - title: spaceship域名
+      url: https://www.spaceship.com/
+      description: 国外域名注册
+    - title: tld-list
+      url: https://tld-list.com/
+      description: 国外域名注册价格对比
     
 - taxonomy: 人工智能
   icon: fa-robot
